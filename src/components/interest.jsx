@@ -7,6 +7,7 @@ import { SiBlender } from "react-icons/si";
 import { MdSportsCricket } from "react-icons/md";
 import { FaPaintBrush } from "react-icons/fa";
 import { FaCameraRetro } from "react-icons/fa"
+import interest from '../images/Profiling-amico.png'
 
 class Interests extends Component {
     //state = {  } 
@@ -14,7 +15,7 @@ class Interests extends Component {
         return(
             <span>
             <br></br>
-            <center><img width="250px" src={process.env.PUBLIC_URL+"Profiling-amico.png"} /></center>
+            <center><img width="250px" src={interest} alt="interest" /></center>
             <center>
             <Card style={{ width: 'auto' , background:"linear-gradient(#0396FF,#FFFFFF)"}}>        <Card.Body>
             <Card.Title><h6><b> INTERESTS </b></h6><h1><b></b></h1></Card.Title>

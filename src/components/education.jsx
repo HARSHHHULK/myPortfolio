@@ -1,12 +1,13 @@
 import React, { Component } from 'react'
 import Card from 'react-bootstrap/Card';
 //import { FiBookOpen } from "react-icons/fi";
+import education from '../images/Webinar-rafiki.png'
 class Education extends Component {
     //state = {  } 
     render() {
         return(
         <span>
-                <center>  <center><img width="250px" src={process.env.PUBLIC_URL+"Webinar-rafiki.png"} /></center></center>
+                <center><img width="250px" src={education} alt="education" /></center>
         <center>
         <Card style={{ width: 'auto' , background:"linear-gradient(#0396FF,#FFFFFF)"}}>
         <Card.Body>

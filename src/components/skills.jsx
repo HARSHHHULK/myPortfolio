@@ -11,14 +11,14 @@ import { DiMongodb } from "react-icons/di";
 import { SiMysql } from "react-icons/si";
 import { SiCplusplus } from "react-icons/si";
 import { FiFigma } from "react-icons/fi";
-
+import skills from "../images/Static website-amico.png";
 class Skills extends Component {
     //state = {  } 
     render() {
         return(
             <span>
             <br></br>
-            <center>  <center><img width="250px" src={process.env.PUBLIC_URL+"Static website-amico.png"} /></center></center>            <center>
+            <center>  <center><img width="250px" src={skills} alt = "skills"/></center></center>            <center>
             <Card style={{ width: 'auto' , background:"linear-gradient(#0396FF,#FFFFFF)"}}>        
             <Card.Body>
             <Card.Title><h6><b> SKILLS </b></h6><h1><b></b></h1></Card.Title>

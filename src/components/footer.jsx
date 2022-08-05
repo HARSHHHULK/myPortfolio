@@ -7,11 +7,12 @@ import { AiFillLinkedin} from "react-icons/ai"
 import { HiMail} from "react-icons/hi"
 import { FaHeart} from "react-icons/fa"
 //import { FaDownload} from "react-icons/fa"
+import footer from '../images/Get in touch-amico.png'
 
 class Footer extends Component {
     render() {
         return(
-        <div><center><img width="250px" src={process.env.PUBLIC_URL+"Get in touch-amico.png"} /></center>
+        <div><center><img width="250px" src={footer} alt="footer" /></center>
          <Navbar bg="primary" variant="dark">
                 <pre> </pre>
                 <Navbar.Brand onClick={this.handleScroll1} href="#1"><h5>Want to know more about me ? Contact Me here !</h5></Navbar.Brand>
