@@ -1,16 +1,22 @@
 {
   "files": {
     "main.css": "/myPortfolio/static/css/main.70e5b766.css",
-    "main.js": "/myPortfolio/static/js/main.7f5872f1.js",
+    "main.js": "/myPortfolio/static/js/main.7051929c.js",
     "static/js/787.3bed1ad3.chunk.js": "/myPortfolio/static/js/787.3bed1ad3.chunk.js",
+    "static/media/Profiling-amico.png": "/myPortfolio/static/media/Profiling-amico.a7b497b99d5b7c070a62.png",
+    "static/media/Static website-amico.png": "/myPortfolio/static/media/Static website-amico.59aaac3fd81e3fc071b0.png",
+    "static/media/Get in touch-amico.png": "/myPortfolio/static/media/Get in touch-amico.77a62e0ca342f229fef2.png",
+    "static/media/Modern life-rafiki.png": "/myPortfolio/static/media/Modern life-rafiki.3bb3909e1df7785cbd54.png",
+    "static/media/Internship-rafiki.png": "/myPortfolio/static/media/Internship-rafiki.582382479f57fd5a1e88.png",
     "static/media/Webinar-rafiki.png": "/myPortfolio/static/media/Webinar-rafiki.7e57bafdfd35f9c8ad37.png",
+    "static/media/Sharing Ideas-rafiki.png": "/myPortfolio/static/media/Sharing Ideas-rafiki.c48fab6a3d19c45b95ad.png",
     "index.html": "/myPortfolio/index.html",
     "main.70e5b766.css.map": "/myPortfolio/static/css/main.70e5b766.css.map",
-    "main.7f5872f1.js.map": "/myPortfolio/static/js/main.7f5872f1.js.map",
+    "main.7051929c.js.map": "/myPortfolio/static/js/main.7051929c.js.map",
     "787.3bed1ad3.chunk.js.map": "/myPortfolio/static/js/787.3bed1ad3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.70e5b766.css",
-    "static/js/main.7f5872f1.js"
+    "static/js/main.7051929c.js"
   ]
 }
