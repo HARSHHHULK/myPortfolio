@@ -1,15 +1,16 @@
 {
   "files": {
     "main.css": "/myPortfolio/static/css/main.70e5b766.css",
-    "main.js": "/myPortfolio/static/js/main.b867d7c0.js",
+    "main.js": "/myPortfolio/static/js/main.7f5872f1.js",
     "static/js/787.3bed1ad3.chunk.js": "/myPortfolio/static/js/787.3bed1ad3.chunk.js",
+    "static/media/Webinar-rafiki.png": "/myPortfolio/static/media/Webinar-rafiki.7e57bafdfd35f9c8ad37.png",
     "index.html": "/myPortfolio/index.html",
     "main.70e5b766.css.map": "/myPortfolio/static/css/main.70e5b766.css.map",
-    "main.b867d7c0.js.map": "/myPortfolio/static/js/main.b867d7c0.js.map",
+    "main.7f5872f1.js.map": "/myPortfolio/static/js/main.7f5872f1.js.map",
     "787.3bed1ad3.chunk.js.map": "/myPortfolio/static/js/787.3bed1ad3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.70e5b766.css",
-    "static/js/main.b867d7c0.js"
+    "static/js/main.7f5872f1.js"
   ]
 }
